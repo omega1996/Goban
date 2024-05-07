@@ -521,9 +521,9 @@
       "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Goban.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "Goban.wrl"
     },
     "page_layout_descr_file": ""
   },
